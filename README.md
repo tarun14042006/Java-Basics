@@ -11,6 +11,8 @@ from beginner level.
 - For Loop
 - While Loop
 - Do-While Loop
+- Function
+- Array
 
 ## Purpose
 
